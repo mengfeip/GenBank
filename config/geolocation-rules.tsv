@@ -1,0 +1,25 @@
+Africa/Cote d'Ivoire/*/*	Africa/Côte d'Ivoire/*/*
+Africa/Cote d'Ivoire/Tai National Park/*	Africa/Côte d'Ivoire/Bas-Sassandra/Tai National Park
+Africa/Democratic Republic of the Congo/Nord Kivu/*	Africa/Democratic Republic of the Congo/North Kivu/*
+Africa/Democratic Republic of the Congo/Sud Kivu/*	Africa/Democratic Republic of the Congo/South Kivu/*
+Africa/Democratic Republic of the Congo/Province Bandundu/*	Africa/Democratic Republic of the Congo/Bandundu/*
+Africa/Democratic Republic of the Congo/Province Equateur/*	Africa/Democratic Republic of the Congo/Equateur/*
+Africa/Democratic Republic of the Congo/Province Kasai Occidental/*	Africa/Democratic Republic of the Congo/Kasai-Occidental/*
+Africa/Democratic Republic of the Congo/Province Kasai Oriental/*	Africa/Democratic Republic of the Congo/Kasai-Oriental/*
+Africa/Democratic Republic of the Congo/Province P. Oriental/*	Africa/Democratic Republic of the Congo/Orientale/*
+Africa/Democratic Republic of the Congo/Yandongi/	Africa/Democratic Republic of the Congo/Equateur/Yandongi
+Africa/Democratic Republic of the Congo/Zaire/*	Africa/Democratic Republic of the Congo//
+Africa/Democratic Republic of the Congo/*/Nyagezi	Africa/Democratic Republic of the Congo/*/Nyangezi
+Africa/Zaire/*/*	Africa/Democratic Republic of the Congo//
+*/Zaire/*/*	Africa/Democratic Republic of the Congo//
+Europe/France/Paris/*	Europe/France/Ile de France/Paris FR
+Europe/Italy/Fvg/Gorizia	Europe/Italy/Friuli Venezia Giulia/Gorizia
+# Unclear which location is the real location	
+Europe/Netherlands/Utrecht/Rotterdam	Europe/Netherlands//
+North America/USA/Washington/Dc	North America/USA/District of Columbia/
+North America/USA/Kent County/*	North America/USA/Delaware/Kent County
+North America/USA/New Castle County/*	North America/USA/Delaware/New Castle County
+North America/USA/Sussex County/*	North America/USA/Delaware/Sussex County
+Africa/Ghana/Central Region/	Africa/Ghana/Central Region GH/
+Africa/Uganda/Central Region/	Africa/Uganda/Central Region UG/
+Africa/Malawi/Central Region/	Africa/Malawi/Central Region MW/
