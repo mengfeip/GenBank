@@ -14,16 +14,6 @@ rule all:
         sequence="results/sequences.fasta",
         metadata="results/metadata_GenBank.tsv",
         update="results/metadata_GenBank_update.tsv",
-    output:
-        dataset=f"data/genbank_$(date +%Y-%m-%d).ndjson",
-        sequence=f"results/sequences_$(date +%Y-%m-%d).fasta",
-        metadata=f"results/metadata_$(date +%Y-%m-%d).tsv",
-    shell:
-        """
-        cp {input.dataset} {output.dataset}
-        cp {input.sequence} {output.sequence}
-        cp {input.metadata} {output.metadata}
-        """
 
 
 include: "rules/dataset_fetch.smk"
